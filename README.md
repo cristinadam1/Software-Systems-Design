@@ -1,4 +1,4 @@
-# CuidamosJuntos
+# Desarrollo de Sistemas de Software (DES)
 Repositorio para el proyecto final de la asignatura de DES del Master de Ingeniería Informática UGR
 
 ![captura](imagenes/cuidamos.png)
